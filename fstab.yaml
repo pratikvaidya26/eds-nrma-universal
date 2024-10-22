@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p43719-e1080482.adobeaemcloud.com/bin/franklin.delivery/pratikvaidya26/eds-nrma-universal/main"
+    type: "markup"
+    suffix: ".html"
