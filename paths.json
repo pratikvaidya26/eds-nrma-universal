@@ -1,7 +1,7 @@
 {
   "mappings": [
     "/content/eds-nrma-universal/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/eds-nrma-universal/configuration:/.helix/config.json",
+    "/content/eds-nrma-universal/metadata:/metadata.json"
   ]
 }
