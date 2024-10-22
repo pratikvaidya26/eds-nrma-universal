@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/nrma/:/",
-    "/content/nrma/configuration:/.helix/config.json",
-    "/content/nrma/metadata:/metadata.json"
+    "/content/nrma-site/:/",
+    "/content/nrma-site/configuration:/.helix/config.json",
+    "/content/nrma-site/metadata:/metadata.json"
   ]
 }
